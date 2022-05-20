@@ -7,6 +7,7 @@
 * [SDL2_Ttf](https://www.libsdl.org/projects/SDL_ttf/) 
 * [SDL2_Mixer](https://www.libsdl.org/projects/SDL_mixer/)
 ### Cách cài đặt:
+*Làm theo những hướng dẫn sau để setup thư viện vào Visual studio code :*
 * [SDL2 ](http://lazyfoo.net/tutorials/SDL/01_hello_SDL/index.php)
 * [SDL2_Image](http://lazyfoo.net/tutorials/SDL/06_extension_libraries_and_loading_other_image_formats/index.php) 
 * SDL2_Mixer , SDL_Ttf cài đặt tương tự như SDL2_Image.
