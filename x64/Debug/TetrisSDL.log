@@ -1,0 +1,7 @@
+﻿  game.cpp
+Z:\vs\TetrisSDL\game.cpp(104,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Z:\vs\TetrisSDL\game.cpp(110,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Z:\vs\TetrisSDL\game.cpp(116,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Z:\vs\TetrisSDL\game.cpp(290,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+Z:\vs\TetrisSDL\game.cpp(327,63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  TetrisSDL.vcxproj -> Z:\vs\TetrisSDL\x64\Debug\TetrisSDL.exe
