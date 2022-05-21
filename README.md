@@ -39,8 +39,8 @@
 * Chỉnh Lại bố cục của trò chơi.
 * Phát triển thêm mốt số họa ảnh khi xóa khổi hay đặt khối.
 #### Về phần tính năng:
-* Phát triển thêm phần tạm dừng trò chơi, tính năng tắt bật âm thanh trong khi chơi.
+* Phát triển thêm phần tạm dừng trò chơi trong khi chơi.
 #### Về phần âm thanh:
 * Thêm một số âm thanh khi đặt khối, xóa khối.
 ### Điều tâm đắc rút ra sau khi hoàn thiện chương trình:
-* Chương trình được tạo ra là sự kết hợp của âm thanh, hình ảnh, và chức nắng để người dùng có thế tiếp cận được.
+* Chương trình được tạo ra là sự kết hợp của âm thanh, hình ảnh, và chức nắng để người dùng có thế tiếp cận được dễ dàng hơn.
