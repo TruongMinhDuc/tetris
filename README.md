@@ -43,5 +43,6 @@
 * Phát triển thêm phần tạm dừng trò chơi trong khi chơi.
 #### Về phần âm thanh:
 * Thêm một số âm thanh khi đặt khối, xóa khối.
-### Điều tâm đắc rút ra sau khi hoàn thiện chương trình:
-* Chương trình được tạo ra là sự kết hợp của âm thanh, hình ảnh, và chức nắng để người dùng có thế tiếp cận được dễ dàng hơn.
+### Kết luận:
+* Đấy là chương trình đầu tiên của em có sự kết hợp của cả hình ảnh, âm thanh và tính nắng nó giúp em biết được thêm nhiều kiến thức mới. Dù chương trình chưa được code hoàn hảo nhưng em rất tâm đắc.
+* Tự đánh giá: 8 - 9;
