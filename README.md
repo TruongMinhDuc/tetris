@@ -35,7 +35,7 @@
 * Chia để trị.
 ## 5. Kết luận:
 ### Hướng phát triển:
-*Thiết kế thêm về mặt hình ảnh.
+* Thiết kế thêm về mặt hình ảnh.
 ### Kết luận:
 * Đấy là chương trình đầu tiên của em có sự kết hợp của cả hình ảnh, âm thanh và tính nắng nó giúp em biết được thêm nhiều kiến thức mới. Dù chương trình chưa được code hoàn hảo nhưng em rất tâm đắc.
 * Tự đánh giá: 8 - 9;
