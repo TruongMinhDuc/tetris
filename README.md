@@ -35,14 +35,7 @@
 * Chia để trị.
 ## 5. Kết luận:
 ### Hướng phát triển:
-#### Về phần hình ảnh:
-* Thêm những texture, ảnh nền, menu của trò chơi.
-* Chỉnh Lại bố cục của trò chơi.
-* Phát triển thêm mốt số họa ảnh khi xóa khổi hay đặt khối.
-#### Về phần tính năng:
-* Phát triển thêm phần tạm dừng trò chơi trong khi chơi.
-#### Về phần âm thanh:
-* Thêm một số âm thanh khi đặt khối, xóa khối.
+*Thiết kế thêm về mặt hình ảnh.
 ### Kết luận:
 * Đấy là chương trình đầu tiên của em có sự kết hợp của cả hình ảnh, âm thanh và tính nắng nó giúp em biết được thêm nhiều kiến thức mới. Dù chương trình chưa được code hoàn hảo nhưng em rất tâm đắc.
 * Tự đánh giá: 8 - 9;
