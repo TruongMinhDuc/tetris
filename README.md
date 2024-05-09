@@ -25,7 +25,7 @@
 * Màn hình kết thúc trò chơi.
 * Chơi lại nhiều lần.
 * Các nút điều khiển cơ bản của trò chơi Tetris.
-### Video minh họa sản phạm: https://youtu.be/FvEf4CBX77g;
+### Video minh họa sản phẩm: https://youtu.be/FvEf4CBX77g;
 ## 4. Các kĩ thuật lập trình được sử dụng: 
 * Cấu trúc.
 * Lớp.
